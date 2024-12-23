@@ -200,7 +200,7 @@ int main()
 	outFile.close();
 	*/
 
-	printVec(HuffmanTree("ABRACADABRA").getEncodedText());
+	printVec(HuffmanTree("alllahasdaflasldfkasdlflasldfkdasflijawrgialkwrgjaslkgjalksfvjalksrjairoairgj").getEncodedText());
 
 	return 0;
 }
